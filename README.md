@@ -21,3 +21,5 @@ Thanks for checking out this front-end coding challenge.
 - Twitter - [@Theuz*o*](https://twitter.com/Theuz_o_)
 
 ## Live site URL
+
+- [Stats preview card component](https://matheusleite01.github.io/Stats-preview-card-component/web/)
